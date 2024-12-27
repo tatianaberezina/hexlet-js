@@ -1,3 +1,3 @@
-import myFunc from "./src/index.js";
+import myFunc from './src/index.js';
 
 myFunc();

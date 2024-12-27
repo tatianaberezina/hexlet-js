@@ -1,6 +1,8 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-export default function () {
-  console.log("Hello, Hexlet!");
-  console.log(_.last(["one", "two"]));
-}
+const myFunc = () => {
+  console.log('Hello, Hexlet!');
+  console.log(_.last(['one', 'two']));
+};
+
+export default myFunc;
